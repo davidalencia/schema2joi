@@ -1,0 +1,15 @@
+{
+  "name": "schema2joi",
+  "version": "1.0.0",
+  "description": "Transform Mongoose schema into a joi object.",
+  "main": "index.js",
+  "author": "davidalencia",
+  "license": "MIT",
+  "scripts": {
+    "test": "node scripts/test.js"
+  },
+  "dependencies": {
+    "joi": "^17.4.0",
+    "mongoose": "^5.11.17"
+  }
+}
